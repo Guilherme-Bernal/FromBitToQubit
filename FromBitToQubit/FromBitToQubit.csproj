@@ -8,4 +8,12 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Styles\Themes\" />
+    <Folder Include="Views\Modules\" />
+    <Folder Include="Views\Components\" />
+    <Folder Include="Views\Dialogs\" />
+    <Folder Include="Views\Shared\" />
+  </ItemGroup>
+
 </Project>
