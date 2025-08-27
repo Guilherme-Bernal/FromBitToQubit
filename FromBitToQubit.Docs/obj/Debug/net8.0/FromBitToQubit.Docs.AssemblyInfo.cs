@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("FromBitToQubitquantun")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("FromBitToQubit.Docs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+706dbbea9648fe166f7c6e3e2a75992c96fbb6de")]
-[assembly: System.Reflection.AssemblyProductAttribute("FromBitToQubitquantun")]
-[assembly: System.Reflection.AssemblyTitleAttribute("FromBitToQubitquantun")]
+[assembly: System.Reflection.AssemblyProductAttribute("FromBitToQubit.Docs")]
+[assembly: System.Reflection.AssemblyTitleAttribute("FromBitToQubit.Docs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

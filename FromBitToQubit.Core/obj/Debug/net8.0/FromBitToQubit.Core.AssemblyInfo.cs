@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FromBitToQubit.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af496fb55bf3f4c5525aeb0a272fa8b72309f2dd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+706dbbea9648fe166f7c6e3e2a75992c96fbb6de")]
 [assembly: System.Reflection.AssemblyProductAttribute("FromBitToQubit.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FromBitToQubit.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
